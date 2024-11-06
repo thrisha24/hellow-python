@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: gowthamdocker1999/test:4
+          image: gowthamdocker1999/test:1
           ports:
             - containerPort: 80  # Expose port 80 for Nginx
